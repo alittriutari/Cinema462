@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Cinema46</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="lorem_ipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+        Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took
+        a galley of type and scrambled it to make a type specimen book.</string>
+    <string name="action_adventure_fantasy">ACTION, ADVENTURE, FANTASY</string>
+    <string-array name="spinner_movie">
+        <item> JUSTICE LEAGUE </item>
+        <item> THOR : RAGNAROK </item>
+        <item> STAR WARS : THE LAST JEDI </item>
+        <item> JUMANJI : WELCOME TO THE JUNGLE </item>
+        <item> MURDER ON THE ORIENT EXPRESS </item>
+        <item> FERDINAND </item>
+        <item> SI JUKI THE MOVIE </item>
+        <item> AJIN </item>
+        <item> YOUR NAME </item>
+
+    </string-array>
+    <string-array name="spinner_cinema">
+        <item> Cinema46 Lippo Mall Kuta </item>
+        <item> Cinema46 Plaza Renon </item>
+    </string-array>
+    <string-array name="spinner_date">
+        <item> Today </item>
+        <item> Tomorrow </item>
+    </string-array>
+    <string-array name="spinner_time">
+        <item> 14.15 PM (2D) </item>
+        <item> 09.00 PM (2D) </item>
+        <item> 11.15 PM (2D) </item>
+    </string-array>
+</resources>
